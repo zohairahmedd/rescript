@@ -1,7 +1,7 @@
 import pandas as pd
 import re
 
-df = pd.read_excel('EBR_Videos_Excel.xlsx') # dataframe
+df = pd.read_excel('EBR_Videos_Listed_Excel.xlsx') # dataframe
 
 categories = { # maps category names to a list of specific keywords
     'Unusable': ['Unusable', "can't", 'really', 'bad', 'positioning', 'blurry', 'too', 'hidden', 'Too'],
