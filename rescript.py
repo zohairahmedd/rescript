@@ -5,8 +5,7 @@ df = pd.read_excel('EBR_Videos_Listed_Excel.xlsx') # dataframe
 
 categories = { # maps category names to a list of specific keywords
     'Unusable': ['Unusable', "can't", 'really', 'bad', 'positioning', 'blurry', 'too', 'hidden', 'Too'],
-    'Can Be Used': ['minute', 'first', 'half' ],
-    'Might Work': ['little', 'dark', 'harder', 'maybe', 'might'],
+    'Can Be Used': ['minute', 'first', 'half', 'little', 'dark', 'harder', 'maybe', 'might'],
     'Perfect Video': ['Clear', 'visible'],
 } # notice how its in order of unusable to perfect, this is mandatory
 
