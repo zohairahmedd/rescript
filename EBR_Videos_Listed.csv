@@ -1,6 +1,6 @@
 Name (.mp4),Brief Description,Usable?
 accurateEBR,Clear eyes visible,Yes
-advanceEBR,Sun glare and left eye hidden,Not really
+advanceEBR,Sun glare and left eye hidden,No
 ageEBR,Clear right eye not as visible,Yes
 agentEBR,Too much sun glare,Unusable
 agileEBR,Seems clear,Yes
@@ -13,21 +13,21 @@ apologyEBR,Clear eyes visible,Yes
 appleEBR,Sun glare and right eye hidden,Not really
 applicationEBR,Sun glare & left eye hidden,No
 appliedEBR,Sun glare but usable in some frames,Yes
-aprilEBR,Sun glare but usable in some frames,Yes
+aprilEBR,Sun glare but usable in some frames,Maybe
 armEBR,Clear right eye not as visible,Yes
 arrangeEBR,Left eye hidden,No
 askEBR,Clear but lots of movement,Maybe
 assemblyEBR,Too dark,No
 associationEBR,Clear bit of sun glare,Yes
 avatarEBR,Clear bit of sun glare,Yes
-avenueEBR,Left eye isnt in frame,No
+avenueEBR,Left eye hidden,No
 aviationEBR,Clear left eye little hard to see,Yes
 awfulEBR,Clear left eye little hard to see,Yes
-backgroundEBR,Can see the eye movements not pupils,Maybe
-balletEBR,Video gets dark but still clear could work,Yes
-ballotEBR,Clear movement later in the video,Yes
-baseEBR,Clear eyes visible little hard to see,No
-basisEBR,Blurry,No
+backgroundEBR,Pupils hidden,No
+balletEBR,"Clear, little dark",Maybe
+ballotEBR,Last half is usable,Maybe
+baseEBR,Too dark,No
+basisEBR,Unusable,No
 battleEBR,Left eye hidden,No
 beEBR,Clear left eye little hard to see,Yes
 bellEBR,Clear eyes visible,Yes
@@ -59,7 +59,7 @@ categoryEBR,Clear eyes visible,Yes
 caveEBR,Left eye hidden with glare,No
 ceilingEBR,Clear eyes visible glare,Yes
 cerealeEBR,Clear eyes visible,Yes
-chanceEBR,Bad camera position glare,No
+chanceEBR,Unusable,No
 channelEBR,Too much glare,No
 chargeEBR,Clear eyes visible,Yes
 childEBR,Clear eyes visible right eye hard to see,Yes
@@ -72,7 +72,7 @@ collectEBR,Clear eyes visible glare,Yes
 colorEBR,Left eye hidden,No
 colorfulEBR,Clear eyes visible,Yes
 commitmentEBR,Clear eyes visible,Yes
-committeeEBR,Either dark or there's heavy glare visible eyes,Maybe
+committeeEBR,Too dark and too much glare,No
 competitionEBR,Clear eyes visible for the most part (some glare),Yes
 composerEBR,Clear harder-to-see left eye,Yes
 concentrationEBR,Unusable,No
@@ -119,7 +119,7 @@ economistEBR,Left eye hidden,No
 edgeEBR,Clear eyes visible,Yes
 effectEBR,Clear eyes visible,Yes
 electronEBR,Clear eyes visible,Yes
-elementEBR,Half could be used,Maybe
+elementEBR,Maybe half could be used,Maybe
 elephantEBR,Clear eyes visible some movement,Yes
 eliteEBR,Clear eyes visible,Yes
 emotionEBR,Clear left eye harder to see,Maybe
@@ -132,7 +132,7 @@ excavationEBR,Left eye hidden,No
 exerciseEBR,First half has potential,Maybe
 exoticEBR,Clear eyes visible,Yes
 explainEBR,Left eye hidden,No
-explosionEBR,First minute is clear eyes visible,Yes
+explosionEBR,First minute is clear eyes visible,Maybe
 extensionEBR,Clear eyes visible,Yes
 fantasyEBR,Too dark,No
 fatEBR,Clear left eye harder to see,Yes
@@ -296,8 +296,8 @@ rallyEBR,Clear eyes visible,Yes
 rankEBR,Clear right eye visible for portions of video,Yes
 recordEBR,Clear eyes visible glare,Yes
 recordingEBR,Clear eyes visible,Yes
-recoverEBR,Can’t see eyes,No
-referEBR,Dark also can’t see eyes,No
+recoverEBR,Eyes hidden,No
+referEBR,Eyes hidden,No
 refundEBR,Unusable,No
 refuseEBR,Left eye hidden,No
 registrationEBR,Left eye hidden,No
@@ -324,7 +324,7 @@ rushEBR,Left eye is hidden for most of video,No
 sacredEBR,Eyes hidden,No
 sacrificeEBR,Too much glare,No
 sailorEBR,Clear eyes visible,Yes
-saladEBR,Too dark glare can’t see eyes,No
+saladEBR,"Eyes hidden, too dark",No
 sampleEBR,Eyes hidden,No
 scanEBR,Left pupil hidden,No
 schoolEBR,Clear eyes visible,Yes
@@ -349,7 +349,7 @@ sipEBR,Too blurry,No
 skateEBR,Clear eyes visible,Yes
 skiEBR,Clear eyes visible,Yes
 skinEBR,Left eye hidden,No
-slimeEBR,Can’t really see pupils,No
+slimeEBR,Pupils hidden,No
 slipEBR,Left pupil hidden,No
 slowEBR,Pupils hidden,No
 smoothEBR,Clear eyes visible,Yes
@@ -363,9 +363,9 @@ spineEBR,Bad camera positioning,No
 spotEBR,Bad camera positioning,No
 spyEBR,Eyes hidden,No
 stallEBR,Clear eyes visible little dark,Maybe
-starEBR,Can’t see pupils,No
-stillEBR,Can’t see left eye,No
-stirEBR,Can’t see left eye,No
+starEBR,Pupils hidden,No
+stillEBR,Left eye hidden,No
+stirEBR,Left eye hidden,No
 stockEBR,Clear eyes visible,Yes
 stopEBR,Clear eyes visible,Yes
 storeEBR,Clear eyes visible,Yes
@@ -378,7 +378,7 @@ stunningEBR,Clear eyes visible little dark,Yes
 styleEBR,Bad camera positioning,No
 suiteEBR,Left eye hidden,No
 summaryEBR,Hidden pupils,No
-summerEBR,Can’t see left eye,No
+summerEBR,Left eye hidden,No
 surroundEBR,Left pupil hidden,No
 suspectEBR,Left pupil hidden,No
 tabletEBR,Bad camera positioning,No
@@ -391,8 +391,8 @@ terminalEBR,Clear eyes visible,Yes
 terreB,Left eye hidden,No
 terreEBR (1),Left eye hidden,No
 textureEBR,Clear eyes visible too dark,No
-thankB,Can’t really see the eyes,No
-thankEBR (1),Can’t really see the eyes,No
+thankB,Eyes hidden,No
+thankEBR (1),Eyes hidden,No
 themeEBR,Left eye hidden,No
 threatenB,Left eye hidden,No
 threatenEBR (1),Left eye hidden,No
