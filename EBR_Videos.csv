@@ -1,0 +1,441 @@
+b,Brief Description,Usable?
+accurateEBR,Clear eyes visible,Yes
+advanceEBR,Sun glare and left eye hidden,No
+ageEBR,Clear right eye not as visible,Yes
+agentEBR,Too much sun glare,Unusable
+agileEBR,Seems clear,Yes
+allowEBR,Clear eyes visible,Yes
+ambienceEBR,Clear eyes visible (for the most part),Yes
+ambitionEBR,Left eye hidden,No
+angelEBR,Clear eyes visible (for the most part),Yes
+angerEBR,Sun glare and left eye hidden,No
+apologyEBR,Clear eyes visible,Yes
+appleEBR,Sun glare and right eye hidden,Not really
+applicationEBR,Sun glare & left eye hidden,No
+appliedEBR,Sun glare but usable in some frames,Yes
+aprilEBR,Sun glare but usable in some frames,Maybe
+armEBR,Clear right eye not as visible,Yes
+arrangeEBR,Left eye hidden,No
+askEBR,Clear but lots of movement,Maybe
+assemblyEBR,Too dark,No
+associationEBR,Clear bit of sun glare,Yes
+avatarEBR,Clear bit of sun glare,Yes
+avenueEBR,Left eye hidden,No
+aviationEBR,Clear left eye little hard to see,Yes
+awfulEBR,Clear left eye little hard to see,Yes
+backgroundEBR,Pupils hidden,No
+balletEBR,"Clear, little dark",Maybe
+ballotEBR,Last half is usable,Maybe
+baseEBR,Too dark,No
+basisEBR,Unusable,No
+battleEBR,Left eye hidden,No
+beEBR,Clear left eye little hard to see,Yes
+bellEBR,Clear eyes visible,Yes
+bendEBR,Clear in most frames,Yes
+billEBR,Too hard to see,No
+bishopEBR,Mostly clear eyes visible,Yes
+bitterEBR,Clear eyes visible,Yes
+blessEBR,Clear eyes visible little glare,Yes
+blueEBR,Clear eyes visible,Yes
+boardEBR,First 30 seconds are clear,Yes
+brickEBR,Video is too dark,No
+broadcastEBR,Clear eyes visible,Yes
+brownEBR,Clear eyes visible some glare,Yes
+bucketEBR,Too dark,No
+builtEBR,Clear eyes visible little dark,Yes
+bulbEBR,Clear eyes visible little hard to see,Yes
+bullwinkleEBR,Clear eyes visible,Yes
+byEBR,Clear eyes visible,Yes
+cabernetEBR,Unusable,No
+cabinEBR,Too dark,No
+calmEBR,Left eye hidden,No
+capEBR,Clear left eye harder to see,Yes
+carbonEBR,Clear left eye harder to see,Yes
+careerEBR,Clear eyes visible little glare,Yes
+cartEBR,Clear eyes visible glare,Yes
+castleEBR,Clear left eye harder to see,Yes
+catalogueEBR,Left eye hidden,No
+categoryEBR,Clear eyes visible,Yes
+caveEBR,Left eye hidden with glare,No
+ceilingEBR,Clear eyes visible glare,Yes
+cerealeEBR,Clear eyes visible,Yes
+chanceEBR,Unusable,No
+channelEBR,Too much glare,No
+chargeEBR,Clear eyes visible,Yes
+childEBR,Clear eyes visible right eye hard to see,Yes
+chinEBR,Clear eyes visible,Yes
+cityEBR,Clear eyes visible,Yes
+climbEBR,Clear eyes visible so much glare,Not really
+closeEBR,Left eye hidden and glare,No
+coachEBR,Clear eyes visible,Yes
+collectEBR,Clear eyes visible glare,Yes
+colorEBR,Left eye hidden,No
+colorfulEBR,Clear eyes visible,Yes
+commitmentEBR,Clear eyes visible,Yes
+committeeEBR,Too dark and too much glare,No
+competitionEBR,Clear eyes visible for the most part (some glare),Yes
+composerEBR,Clear harder-to-see left eye,Yes
+concentrationEBR,Unusable,No
+conceptionEBR,Clear and eyes visible apart from some glare,Yes
+contentEBR,Clear harder-to-see left eye,Yes
+contributionEBR,Clear and eyes visible apart from some glare,Yes
+copeEBR,Left eye is hidden,No
+countryEBR,"Left eye hidden, glare",No
+craftEBR,Too dark and movement,No
+crewEBR,Clear eyes visible,Yes
+crimeEBR,Too much glare,No
+crisisEBR,Clear eyes visible,Yes
+criticEBR,Few parts could be used,Maybe
+crowdEBR,Clear eyes visible,Yes
+curlEBR,Left eye hidden,No
+dairyEBR,Clear eyes visible,Yes
+dayEBR,Clear eyes visible,Yes
+deadEBR,"Left eye hidden, movement",No
+declineEBR,Right eye hidden and too dark,No
+decorativeEBR,Clear eyes visible little dark,Yes
+decreaseEBR,Clear eyes visible,Yes
+defendentEBR,Clear left eye harder to see,Maybe
+defineEBR,Clear left eye harder to see,Yes
+densityEBR,Clear left eye harder to see,Yes
+dependEBR,Clear eyes visible,Yes
+depositEBR,Clear eyes visible,Yes
+desertEBR,Clear eyes visible,Yes
+deskEBR,Clear left eye harder to see,Maybe
+differentEBR,Right eye hidden,No
+directoryEBR,Clear eyes visible,Yes
+disabilityEBR,Clear eyes visible,Yes
+discoveryEBR,Left eye hidden,No
+dishEBR,Clear eyes visible glare,Yes
+dismissEBR,Clear eyes visible,Yes
+doEBR,Clear eyes visible,Yes
+dollarEBR,Clear eyes visible,Yes
+doseEBR,Unusable,No
+doubtEBR,Clear eyes visible,Yes
+draftEBR,Clear eyes visible but dark,Maybe
+drawEBR,Clear left eye harder to see,Yes
+dropEBR,Clear eyes visible,Yes
+drumEBR,Clear eyes visible little glare,Yes
+economistEBR,Left eye hidden,No
+edgeEBR,Clear eyes visible,Yes
+effectEBR,Clear eyes visible,Yes
+electronEBR,Clear eyes visible,Yes
+elementEBR,Maybe half could be used,Maybe
+elephantEBR,Clear eyes visible some movement,Yes
+eliteEBR,Clear eyes visible,Yes
+emotionEBR,Clear left eye harder to see,Maybe
+enjoyEBR,Unusable,No
+enterEBR,Clear left eye is tough to see sometimes,Yes
+episodeEBR,Clear eyes visible,Yes
+equalEBR,Right eye hidden,No
+evenEBR,Clear eyes visible,Yes
+excavationEBR,Left eye hidden,No
+exerciseEBR,First half has potential,Maybe
+exoticEBR,Clear eyes visible,Yes
+explainEBR,Left eye hidden,No
+explosionEBR,First minute is clear eyes visible,Maybe
+extensionEBR,Clear eyes visible,Yes
+fantasyEBR,Too dark,No
+fatEBR,Clear left eye harder to see,Yes
+faultEBR,Last minute could be used,Maybe
+februaryEBR,Clear eyes visible,Yes
+feelEBR,Left eye hidden,No
+fibreEBR,Clear eyes visible,Yes
+fightEBR,Clear eyes visible,Yes
+filmEBR,Clear eyes visible some glare,Yes
+financeEBR,First minute is clear eyes visible,Maybe
+fineEBR,Clear left eye is hard to see though,Yes
+fireplaceIEBR,Clear eyes visible,Yes
+fitnessEBR,Clear eyes visible,Yes
+flagEBR,Clear left pupil tough to see,Yes
+flashEBR,Clear eyes visible,Yes
+flexibleEBR,Clear eyes visible,Yes
+flowEBR,Clear eyes visible,Yes
+flushEBR,"Clear eyes visible, too dark though",Maybe
+folkEBR,Clear eyes visible,Yes
+footballEBR,Clear eyes visible,Yes
+footEBR,"Left eye hidden, too dark",No
+forestEBR,Left eye is completely hidden,No
+forgeEBR,Left eye is completely hidden,No
+fragrantEBR,Clear eyes visible,Yes
+frankEBR,Clear eyes visible,Yes
+freedomEBR,Clear eyes visible some glare,Yes
+frontEBR,Clear eyes visible,Yes
+fruitEBR,Clear eyes visible blurry,Yes
+galaxyEBR,Clear for most part left eye view is obstructed,Yes
+ghostEBR,Clear for most part left eye view is obstructed,Yes
+glareEBR,Left pupil is hidden,No
+globalEBR,Clear with glare,Yes
+graphicEBR,Clear but gets dark,Yes
+grazeEBR,Left pupil is hidden,No
+greatEBR,Too dark,No
+growEBR,Clear eyes visible,Yes
+guideEBR,Too dark,No
+habitEBR,Clear eyes visible,Yes
+happenEBR,Clear eyes visible,Yes
+hayEBR,Too dark,No
+healthyEBR,So pixelated and left eye hidden,No
+hearEBR,Clear eyes visible,Yes
+holeEBR,Too dark,No
+horseEBR,Left pupil is hidden for the most part,No
+hourEBR,Clear eyes visible,Yes
+housingEBR,Clear eyes visible,Yes
+hurlEBR,Clear eyes visible,Yes
+hutEBR,Too dark,No
+hypothesizeEBR,Left eye hidden,No
+ifEBR,Left eye is hidden,No
+immuneEBR,Some frames are good but not most,Maybe
+importEBR,Clear eyes visible,Yes
+incredibleEBR,Clear eyes visible,Yes
+indicationEBR,Clear eyes visible,Yes
+indoorEBR,Left pupil is hidden,No
+inflationEBR,Bad camera positioning,No
+innocentEBR,First minute has potential,Maybe
+insightEBR,Clear eyes visible,Yes
+intentionEBR,Clear eyes visible,Yes
+interestEBR,Too blurry,No
+inviteEBR,Clear eyes visible for the most part,Yes
+januaryEBR,Left pupil is hidden,No
+jockeyEBR,Too blurry,No
+justiceEBR,Clear left eye is only visible sometimes,Yes
+kickEBR,Too dark,No
+kitchenEBR,Eyes hidden,No
+laboratoryEBR,Clear eyes visible glare,Yes
+laceEBR,Clear eyes visible glare,Yes
+landEBR,Bad camera positioning,No
+laserEBR,Left eye is hidden,No
+legendEBR,Left eye is hidden,No
+lieEBR,Too dark,No
+lightEBR,Left eye is hidden,No
+limiteEBR,Clear left eye is a bit obstructed,Yes
+linkEBR,Clear eyes visible,Yes
+lipsEBR,Clear eyes visible,Yes
+locateEBR,Clear eyes visible,Yes
+lockEBR,Clear eyes visible glare,Yes
+lookEBR,Too much glare,No
+loopEBR,Left eye is completely hidden,No
+loudEBR,Clear eyes visible,Yes
+managerEBR,Too blurry,No
+marketingEBR,Too dark,No
+massEBR,Clear eyes visible,Yes
+mayorEBR,Clear eyes visible,Yes
+measureEBR,Clear eyes visible little blurry,Yes
+meatEBR,Clear eyes visible,Yes
+medalEBR,Clear eyes visible,Yes
+memberEBR,Both pupils are hidden,No
+memoryEBR,Clear eyes visible,Yes
+menuEBR,Too dark,No
+minimizeEBR,Hidden left pupil too much glare,No
+mistreatEBR,Clear eyes visible,Yes
+monkEBR,Hidden left pupil too much glare,No
+monstrousEBR,Clear eyes visible,Yes
+mouseEBR,Pupils hidden,No
+mouthEBR,Too blurry,No
+moyenneEBR,Clear eyes visible,Yes
+mugEBR,Too blurry,No
+natureEBR,Clear eyes visible,Yes
+neckEBR,Clear eyes visible,Yes
+negligenceEBR,Too dark,No
+nerveuxEBR,Bad camera positioning glare,No
+newEBR,Pupils hidden,No
+newsEBR,Too blurry,No
+nominateEBR,Too dark blurry and glare,No
+noteEBR,Clear eyes visible glare,Yes
+novemberEBR,Clear eyes visible glare,Yes
+oakEBR,Left eye hidden,No
+obscureEBR,Bad camera positioning,No
+offenseEBR,Clear left eye kind of obstructed,Yes
+oftEBR,Left eye is hidden,No
+ohEBR,Clear left eye kind of obstructed,Yes
+omissionEBR,Too dark and left eye hidden,No
+onEBR,Left eye hidden,No
+optionEBR,Clear left eye kind of obstructed,Yes
+orangeEBR,Clear eyes visible,Yes
+orEBR,Clear eyes visible,Yes
+organEBR,Clear eyes visible,Yes
+originalEBR,Clear eyes visible little hard to see,Yes
+ovenEBR,Clear eyes visible,Yes
+overwhelmEBR,Clear eyes visible glare,Yes
+packetEBR,Clear eyes visible glare,Yes
+paintEBR,Clear left eye kind of hidden glare,Yes
+panicEBR,Clear eyes visible,Yes
+parameterEBR,Glare or too dark,No
+passionEBR,Clear eyes visible,Yes
+pastureEBR,Little too dark,No
+pauseEBR,Clear eyes visible,Yes
+peaceEBR,Clear eyes visible,Yes
+peanutEBR,Too much glare or too dark to see eyes,No
+penEBR,Left pupil is quite hidden,No
+perfectEBR,Clear eyes visible,Yes
+pianoEBR,Clear eyes visible little blurry,Yes
+pieceEBR,Pupils are pretty hidden,No
+pieEBR,Clear left eye a little obstructed,Yes
+pileEBR,Left pupil is quite hidden,No
+pintEBR,Clear eyes visible,Yes
+pitchEBR,Clear eyes visible some glare,Yes
+potentialEBR,Clear eyes visible glare,Yes
+potteryEBR,Clear eyes visible glare,Yes
+prayerEBR,Too much glare/hair,No
+preferEBR,Clear eyes visible just gets quite dark,Maybe
+preparationEBR,Left pupil is quite hidden,No
+presentEBR,Clear eyes visible,Yes
+pressureEBR,Clear eyes visible,Yes
+priceEBR,Clear eyes visible,Yes
+progressiveEBR,Some frames are good but not most,Maybe
+promoteEBR,Clear eyes visible,Yes
+proposalEBR,Clear eyes visible,Yes
+provisionEBR,Left pupil is quite hidden,Not really
+pumpkinEBR,Clear eyes visible,Yes
+pupilEBR,Clear eyes visible,Yes
+quarterEBR,Right pupil is quite hidden,No
+quoteEBR,Eyes hidden,No
+rackEBR,Clear eyes visible some glare,Yes
+radioEBR,Clear eyes visible dark,Yes
+radishEBR,Clear eyes visible,Yes
+raiseEBR,Hidden pupils,No
+rallyEBR,Clear eyes visible,Yes
+rankEBR,Clear right eye visible for portions of video,Yes
+recordEBR,Clear eyes visible glare,Yes
+recordingEBR,Clear eyes visible,Yes
+recoverEBR,Eyes hidden,No
+referEBR,Eyes hidden,No
+refundEBR,Unusable,No
+refuseEBR,Left eye hidden,No
+registrationEBR,Left eye hidden,No
+reignEBR,Clear eyes visible,Yes
+rejectEBR,Left pupil hidden,No
+remainEBR,Clear eyes visible,Yes
+rentEBR,Right pupil is hidden,No
+reportEBR,Clear eyes visible,Yes
+requestEBR,Clear eyes visible,Yes
+researcherEBR,Clear eyes visible quite dark though,Maybe
+resistEBR,Clear eyes visible,Yes
+respectEBR,Left eye is hidden,Yes
+responseEBR,Pupils hidden,No
+restorationEBR,Clear eyes visible,Yes
+retirementEBR,Clear eyes visible,Yes
+revealEBR,Clear eyes visible,Yes
+revitalizeEBR,Clear eyes visible,Yes
+revivalEBR,Clear eyes visible little dark,Yes
+richEBR,Clear eyes visible,Yes
+roadEBR,Dark and left eye hidden,No
+roundEBR,Clear eyes visible little dark & glare,Maybe
+rugbyEBR,Clear eyes visible,Yes
+rushEBR,Left eye is hidden for most of video,No
+sacredEBR,Eyes hidden,No
+sacrificeEBR,Too much glare,No
+sailorEBR,Clear eyes visible,Yes
+saladEBR,"Eyes hidden, too dark",No
+sampleEBR,Eyes hidden,No
+scanEBR,Left pupil hidden,No
+schoolEBR,Clear eyes visible,Yes
+scrapEBR,Clear eyes visible (1st minute only),Maybe
+sealEBR,Clear eyes visible,Yes
+seasonEBR,Right eye hidden,No
+sectionEBR,Right eye hidden,No
+secureEBR,Left eye hidden,No
+securityEBR,Left eye hidden,No
+selectionEBR,Clear eyes visible (first 30-45 seconds),Maybe
+sentenceEBR,Too zoomed in,No
+shadowEBR,Clear eyes visible,Yes
+sheEBR,Too blurry,No
+sheetEBR,Bad camera positioning,No
+shellEBR,Left eye hidden,No
+shoulderEBR,Clear eyes visible,Yes
+showEBR,Clear eyes visible glare,Yes
+showedEBR,Left eye hidden glare,No
+shrillEBR,Too blurry,No
+singEBR,Clear eyes visible,Yes
+sipEBR,Too blurry,No
+skateEBR,Clear eyes visible,Yes
+skiEBR,Clear eyes visible,Yes
+skinEBR,Left eye hidden,No
+slimeEBR,Pupils hidden,No
+slipEBR,Left pupil hidden,No
+slowEBR,Pupils hidden,No
+smoothEBR,Clear eyes visible,Yes
+snailEBR,Bad camera positioning,No
+snubEBR,Left pupil is hidden,No
+softEBR,Clear eyes visible,Yes
+sourceEBR,Clear eyes visible,Yes
+sourEBR,Left eye hidden,No
+spellEBR,Too dark,No
+spineEBR,Bad camera positioning,No
+spotEBR,Bad camera positioning,No
+spyEBR,Eyes hidden,No
+stallEBR,Clear eyes visible little dark,Maybe
+starEBR,Pupils hidden,No
+stillEBR,Left eye hidden,No
+stirEBR,Left eye hidden,No
+stockEBR,Clear eyes visible,Yes
+stopEBR,Clear eyes visible,Yes
+storeEBR,Clear eyes visible,Yes
+streamEBR,Clear eyes visible,Yes
+strictEBR,Clear eyes visible little dark,Yes
+strokeEBR,Too blurry,No
+stuffEBR,Clear eyes visible,Yes
+stunEBR,Clear eyes visible,Yes
+stunningEBR,Clear eyes visible little dark,Yes
+styleEBR,Bad camera positioning,No
+suiteEBR,Left eye hidden,No
+summaryEBR,Hidden pupils,No
+summerEBR,Left eye hidden,No
+surroundEBR,Left pupil hidden,No
+suspectEBR,Left pupil hidden,No
+tabletEBR,Bad camera positioning,No
+tacticEBR,Clear eyes visible glare,Yes
+tearEBR,Left eye hidden,No
+teenagerEBR,Clear eyes visible (only near the end),Yes
+teenEBR,Horrible camera positioning,No
+tentEBR,Clear eyes visible glare,Yes
+terminalEBR,Clear eyes visible,Yes
+terreEBR (1),Left eye hidden,No
+textureEBR,Clear eyes visible too dark,No
+thankEBR (1),Eyes hidden,No
+themeEBR,Left eye hidden,No
+threatenEBR (1),Left eye hidden,No
+timeEBR (1),Clear eyes visible little dark,Yes
+tinEBR (1),Clear eyes visible,Yes
+tolerateEBR,Too dark,No
+tomatoEBR (1),Right eye hidden,No
+toothEBR (1),Too dark & bad camera positioning,No
+traceEBR,Clear eyes visible (last half is good),Maybe
+tractEBR (1),Clear eyes visible glare,Yes
+TrafficEBR (1),Clear eyes visible (for some frames),Maybe
+tranceEBR,Left pupil hidden,No
+transactionEBR (1),Clear eyes visible,Yes
+transformEBR (1),Left eye hidden,No
+treasurerEBR,Clear eyes visible,Yes
+tribeEBR,Clear eyes visible,Yes
+tripEBR,Clear eyes visible,Yes
+troubleEBR,Clear eyes visible,Yes
+trustEBR,Clear eyes visible (for some parts),Maybe
+truthEBR,Eyes are harder to see,Maybe
+uncleEBR,Clear eyes visible,Yes
+ungentEBR,Too dark,No
+unionEBR,Left eye hidden,No
+unitEBR,Clear eyes visible,Yes
+urgeEBR,Camera positioning is bad,No
+urgencyEBR,Left pupil hidden,No
+useEBR,Clear eyes visible (last half),Maybe
+validEBR,Clear eyes visible,Yes
+verdictEBR,Clear eyes visible,Yes
+viableEBR,Clear eyes visible (last half),Maybe
+victoryEBR,Clear eyes visible,Yes
+visualEBR,Too much glare left eye hidden,No
+volumeEBR,Left pupil hidden,No
+waiterEBR,Clear eyes visible (last half),Maybe
+wasteEBR,Clear eyes visible,Yes
+waterEBR,Clear eyes visible (first half),Maybe
+waveEBR,Little too dark,No
+wearEBR,Too dark or too much glare,No
+weddingEBR,Clear eyes visible,Yes
+weighEBR,Too much glare or left pupil hidden,No
+westEBR,Clear eyes visible (maybe left eye is harder to see),Maybe
+widenEBR,Clear eyes visible,Yes
+witchEBR,Clear eyes visible little dark,Yes
+wolfEBR,Clear eyes visible,Yes
+womanEBR,Left pupil hidden,No
+wordEBR,Too dark,No
+worryEBR,Right eye hidden,No
+wrapEBR,Clear eyes visible,Yes
+zoneEBR,Too blurry,No
