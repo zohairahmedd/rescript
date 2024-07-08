@@ -1,7 +1,7 @@
 import pandas as pd
 import re
 
-df = pd.read_csv('EBR_Videos_Listed.csv') # dataframe
+df = pd.read_csv('EBR_Videos_Excel.csv') # dataframe
 
 categories = { # maps category names to a list of specific keywords
     'Unusable': ['Unusable', 'really', 'bad', 'positioning', 'blurry', 'too', 'hidden', 'Too'],
